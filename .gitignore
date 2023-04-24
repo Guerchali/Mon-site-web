@@ -1,5 +1,8 @@
 tmp/*
+<<<<<<< HEAD
 *.xml
 tmp/todo.txt
+=======
+>>>>>>> c27c4c3 ( nettoyage du ficheir)
 *.txt
 
